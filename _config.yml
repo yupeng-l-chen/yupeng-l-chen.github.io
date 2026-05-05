@@ -15,6 +15,7 @@ description              : &description "personal description"
 url                      : https://yupeng-l-chen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yupeng-l-chen/yupeng-l-chen.github.io"
+google_site_verification : "3thy13t4ocMWn3opxX_2HafmsZCICQQ4hOXrl4DNCiY"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
